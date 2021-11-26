@@ -1,0 +1,13 @@
+table {
+  width: 100%;
+}
+
+  .loading_spinner{
+    background: rgba(0, 0, 0, 0.10);
+    padding: 25px;
+    display: flex;
+    align-items: right;
+    justify-content: center;
+
+
+  }
